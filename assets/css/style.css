@@ -91,6 +91,20 @@ h3{
 	margin: 20px 1.5%;
 }
 
+#contact{
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #000000;
+	border: solid;
+	border-color: #696969;
+	background-color: #ffffff;
+	text-align: left;
+	float: left;
+	width: 40%;
+	padding: 20px;
+	margin: 20px 1.5%;
+}
+
 #profile-image{
 	float: left;
 	margin: 0 1.5%;

@@ -133,6 +133,8 @@ h3{
 #profile-image{
 	float: left;
 	margin: 0 1.5%;
+	background-image: url("assets/images/Ben-Japan2016");
+	background-size: cover;
 	height: 340px;
 	width: 240px;
 }

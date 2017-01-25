@@ -29,6 +29,7 @@ h3{
 
 .container{
 	width: 100%;
+
 }
 
 #connect{
@@ -50,6 +51,9 @@ h3{
 }
 
 #profile-image{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
 	height: 370px;
 	width: 270px;
 }

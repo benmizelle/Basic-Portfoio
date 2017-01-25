@@ -110,6 +110,11 @@ h3{
 	margin: 20px 1.5%;
 }
 
+.submit{
+	color: #ffffff;
+	background-color: #4aaaa5
+}
+
 #portfolio{
 	font-family: "Georgia", "Times New Roman", Times, serif;
 	font-size: 18px;
@@ -124,17 +129,9 @@ h3{
 	margin: 20px 1.5%;
 }
 
-
-.submit{
-	color: #ffffff;
-	background-color: #4aaaa5
-}
-
 #profile-image{
 	float: left;
 	margin: 0 1.5%;
-	background-image: url("assets/images/Ben-Japan2016");
-	background-size: cover;
 	height: 340px;
 	width: 240px;
 }

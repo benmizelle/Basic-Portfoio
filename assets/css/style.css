@@ -93,10 +93,7 @@ h3{
 
 #profile-image{
 	float: left;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin: 0 1.5%;
 	height: 340px;
 	width: 240px;
 }

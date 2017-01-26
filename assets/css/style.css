@@ -124,9 +124,46 @@ h3{
 	background-color: #ffffff;
 	text-align: left;
 	float: left;
-	width: 40%;
+	width: 25%;
 	padding: 20px;
 	margin: 20px 1.5%;
+}
+
+.hangman{
+	float: left;
+	position: relative;
+	margin: 10px;
+	padding: 10px;
+}
+
+.RPGgame{
+	float: left;
+	position: relative;
+	margin: 10px;
+	padding: 10px;
+}
+
+.triviagame{
+	clear: both;
+	float: left;
+	position: relative;
+	margin: 10px;
+	padding: 10px;
+}
+
+.rutgers{
+	float: left;
+	position: relative;
+	margin: 10px;
+	padding: 10px;
+}
+
+.rock{
+	clear: both;
+	float: left;
+	position: relative;
+	margin: 10px;
+	padding: 10px;
 }
 
 #profile-image{
